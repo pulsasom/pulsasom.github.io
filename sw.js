@@ -5,7 +5,8 @@ const ASSETS = [
   './manifest.webmanifest',
   './icon-192x192.png',
   './icon-512x512.png',
-  './apple-touch-icon.png'
+  './apple-touch-icon.png',
+  './share-card.png'
 ];
 
 self.addEventListener('install', event => {
